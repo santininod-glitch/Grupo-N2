@@ -4,7 +4,6 @@ LP – Lider proyecto: Santiago Niño <br>
 AP – Analista de procesos: Samuel Pinzón <br>
 UX – Usuario y campaña: Valentina Pineda <br>
 PR – Prototipo:  <br>
-<br>
 Issues a cargo <br>
 ROL | Issues | Justificación | <br>
 Líder | #1 Identificación de la organización, #3 BPMN de práctica, #14 Elementos FabLab, #17 Uso de IA | Entregables de coordinación y documentación general del proyecto | <br>
@@ -20,7 +19,6 @@ Semana 3 | 01/11/2026 | Canvas, solución y prototipo v0.1 |<br>
 Semana 4 | 08/11/2026 | Prototipo v0.5, riesgos y campaña |<br>
 Semana 5 | 12/11/2026 | Validación, FabLab, prototipo v1.0 y pre-sustentación |<br>
 Semana 6 | 13/11/2026 | Exposición ante jurados |<br>
-<br>
 Tablero y cronograma <br>
 ![Tablero del proyecto](../assets/Mapa de ruta Drive.on.jpeg) <br>
 ![Diagrama de Gantt](../assets/Diagrama de Gantt Drive.on.jpeg) <br>
