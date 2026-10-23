@@ -20,5 +20,5 @@ Semana 4 | 08/11/2026 | Prototipo v0.5, riesgos y campaña |<br>
 Semana 5 | 12/11/2026 | Validación, FabLab, prototipo v1.0 y pre-sustentación |<br>
 Semana 6 | 13/11/2026 | Exposición ante jurados |<br>
 Tablero y cronograma <br>
-![Tablero del proyecto](../assets/Mapa de ruta Drive.on.jpeg) <br>
-![Diagrama de Gantt](../assets/Diagrama de Gantt Drive.on.jpeg) <br>
+![Tablero del proyecto](../activos/Mapa de ruta Drive.on.jpeg) <br>
+![Diagrama de Gantt](../activos/Diagrama de Gantt Drive.on.jpeg) <br>
