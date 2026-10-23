@@ -1,7 +1,7 @@
 # Proceso actual
 
 ## 1. BPMN de práctica
-![BPMN de práctica](../assets/bpmn-taller.png)
+![BPMN de práctica](../assets/BPMN.PRACTICA.png)
 
 **Declaración de IA:**
 Claude (Sonnet 5.5) – 23/10/2026 – prompt registrado en docs/11-uso-ia.md
@@ -27,9 +27,8 @@ Claude (Sonnet 5.5) – 23/10/2026 – prompt registrado en docs/11-uso-ia.md
 **Decisión:** ¿Hay domiciliario libre? Sí: Dar el pedido y la dirección al domiciliario (paso 3). No: Llamar a los domiciliarios y esperar, y volver al paso 2.
 
 ## 4. Diagrama BPMN
-![BPMN proceso actual](../assets/bpmn-actual.png)
+![BPMN proceso actual](../assets/bpmn_domicilios_sabor_expres.png)
 
-Archivo editable: [bpmn-actual.drawio](../assets/bpmn-actual.drawio)
 
 ## 5. Puntos críticos
 
