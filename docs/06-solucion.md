@@ -1,4 +1,5 @@
-# 06 · Solución y flujo de información
+# 06 · Solución y flujo de información <br>
+<br>
 
 ## Solución propuesta
 
