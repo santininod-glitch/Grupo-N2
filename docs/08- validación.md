@@ -78,5 +78,5 @@ Consideramos validada la hipótesis si se cumple todo lo siguiente:
 
 ### Qué vamos a cambiar
 
-Video: [ENLACE]
-
+Video: [[ENLACE]
+](https://youtu.be/Jpeq9opt8VI?si=sw42DiArQ-_4AYIE)
